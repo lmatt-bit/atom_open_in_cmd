@@ -1,6 +1,13 @@
 'context-menu':
 
-  'atom-workspace': [
+  '.tree_view': [
+    {
+      label: 'Open folder in CMD',
+      command: 'open-in-cmd:open_path'
+    }
+  ]
+
+  'atom_text_editor': [
     {
       label: 'Open folder in CMD',
       command: 'open-in-cmd:open'
