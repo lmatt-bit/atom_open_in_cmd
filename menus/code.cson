@@ -1,13 +1,13 @@
 'context-menu':
 
-  '.tree_view': [
+  '.tree-view': [
     {
       label: 'Open folder in CMD',
       command: 'open-in-cmd:open_path'
     }
   ]
 
-  'atom_text_editor': [
+  'atom-text-editor': [
     {
       label: 'Open folder in CMD',
       command: 'open-in-cmd:open'
