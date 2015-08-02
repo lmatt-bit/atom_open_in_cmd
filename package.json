@@ -1,14 +1,17 @@
 {
-  "name": "code",
+  "name": "atom_open_in_cmd",
   "main": "./lib/code",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Enable \"Open in cmd\" in Atom",
   "keywords": [
+    "cmd"
   ],
   "activationCommands": [
-    "open-in-cmd:open"
   ],
-  "repository": "https://github.com/lmatt-bit/atom_open_in_cmd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lmatt-bit/atom_open_in_cmd"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
