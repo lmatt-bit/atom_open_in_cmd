@@ -1,5 +1,5 @@
 {
-  "name": "atom_open_in_cmd",
+  "name": "open_in_cmd",
   "main": "./lib/code",
   "version": "0.1.1",
   "description": "Enable \"Open in cmd\" in Atom",
