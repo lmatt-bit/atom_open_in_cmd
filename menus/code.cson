@@ -9,7 +9,7 @@
 
   'atom-text-editor': [
     {
-      label: 'Open folder in CMD',
+      label: 'Open file folder in CMD',
       command: 'open-in-cmd:open'
     }
   ]

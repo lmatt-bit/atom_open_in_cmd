@@ -10,3 +10,6 @@
 
 ## 0.4.0 - The correct spelling of tree view is "tree-view"
 * correct the spelling of tree-view & atom-text-editor
+
+## 0.5.0 - Fix the issue of too many cmds are opened
+* Fix the issue of too many cmds are opened
