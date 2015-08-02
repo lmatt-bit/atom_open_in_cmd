@@ -1,7 +1,7 @@
 {
   "name": "open_in_cmd",
   "main": "./lib/code",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Enable \"Open in cmd\" in Atom",
   "keywords": [
     "cmd"
