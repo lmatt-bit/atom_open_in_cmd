@@ -1,7 +1,7 @@
 {
   "name": "open_in_cmd",
   "main": "./lib/code",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Allow user to open a CMD from current directory in Atom tree-view or editor.",
   "keywords": [
     "cmd",
