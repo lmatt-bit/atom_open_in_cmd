@@ -1,13 +1,15 @@
 # Open in CMD
 
-Based on [open-conemu-here](https://github.com/ziyasal/atom-open-conemu-here), "atom_open_in_cmd" package allows user to open a CMD in atom from tree-view & workspace & editor.
+![snapshot](https://raw.githubusercontent.com/lmatt-bit/atom_open_in_cmd/master/screenshot.gif)
 
-To install;
+Thanks to ziyasal's [open-conemu-here](https://github.com/ziyasal/atom-open-conemu-here), I can create "open_in_cmd" package. With "open_in_cmd", User can open a CMD in Atom directly from tree-view & editor.  
+
+To install package from command line:
 ```shell
 apm install open_in_cmd
 ```
 
-![snapshot](https://raw.githubusercontent.com/lmatt-bit/atom_open_in_cmd/master/screenshot.png)
+Note: This package is only enabled on Windows, that's why "CMD" is used.
 
 ##License
 MIT License

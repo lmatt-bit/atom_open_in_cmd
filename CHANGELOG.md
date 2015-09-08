@@ -13,3 +13,6 @@
 
 ## 0.5.0 - Fix the issue of too many cmds are opened
 * Fix the issue of too many cmds are opened
+
+## 0.6.0 - refine the description of this package
+* refine the description of this package
