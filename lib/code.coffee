@@ -20,4 +20,4 @@ module.exports =
     else
       dir_path = select_file
 
-    exec "start cmd /k \"cd \"#{dir_path}\"\""
+    exec "start cmd /k \"cd /d \"#{dir_path}\"\""
